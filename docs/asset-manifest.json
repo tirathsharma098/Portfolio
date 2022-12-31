@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/docs/static/css/main.6b18dd95.css",
-    "main.js": "/Portfolio/docs/static/js/main.81fb0aea.js",
-    "static/media/TirathLessHair.jpg": "/Portfolio/docs/static/media/TirathLessHair.3c3fcc896fb46c159adb.jpg",
-    "index.html": "/Portfolio/docs/index.html",
-    "main.6b18dd95.css.map": "/Portfolio/docs/static/css/main.6b18dd95.css.map",
-    "main.81fb0aea.js.map": "/Portfolio/docs/static/js/main.81fb0aea.js.map"
+    "main.css": "/tirathsharma098/Portfolio/tree/main/tree/main/docs/static/css/main.6b18dd95.css",
+    "main.js": "/tirathsharma098/Portfolio/tree/main/tree/main/docs/static/js/main.b83b56e3.js",
+    "static/media/TirathLessHair.jpg": "/tirathsharma098/Portfolio/tree/main/tree/main/docs/static/media/TirathLessHair.3c3fcc896fb46c159adb.jpg",
+    "index.html": "/tirathsharma098/Portfolio/tree/main/tree/main/docs/index.html",
+    "main.6b18dd95.css.map": "/tirathsharma098/Portfolio/tree/main/tree/main/docs/static/css/main.6b18dd95.css.map",
+    "main.b83b56e3.js.map": "/tirathsharma098/Portfolio/tree/main/tree/main/docs/static/js/main.b83b56e3.js.map"
   },
   "entrypoints": [
     "static/css/main.6b18dd95.css",
-    "static/js/main.81fb0aea.js"
+    "static/js/main.b83b56e3.js"
   ]
 }

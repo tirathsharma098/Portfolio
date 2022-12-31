@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tirathsharma098.github.io/Portfolio/docs",
+  "homepage": "https://github.com/tirathsharma098/Portfolio/tree/main/tree/main/docs",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
