@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.6b18dd95.css",
-    "main.js": "/Portfolio/static/js/main.fa02753e.js",
-    "static/media/TirathLessHair.jpg": "/Portfolio/static/media/TirathLessHair.3c3fcc896fb46c159adb.jpg",
+    "main.js": "/Portfolio/static/js/main.9dbcc338.js",
+    "static/media/TirathWithPc.jpg": "/Portfolio/static/media/TirathWithPc.a4b0f7ad5d770bb20fec.jpg",
     "index.html": "/Portfolio/index.html",
     "main.6b18dd95.css.map": "/Portfolio/static/css/main.6b18dd95.css.map",
-    "main.fa02753e.js.map": "/Portfolio/static/js/main.fa02753e.js.map"
+    "main.9dbcc338.js.map": "/Portfolio/static/js/main.9dbcc338.js.map"
   },
   "entrypoints": [
     "static/css/main.6b18dd95.css",
-    "static/js/main.fa02753e.js"
+    "static/js/main.9dbcc338.js"
   ]
 }
