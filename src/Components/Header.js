@@ -13,7 +13,7 @@ const Header = (props) => {
                     </h1>
                 </div>
                 <div className={classes["profileContainer"]}>
-                    <img src={require("../assets/pics/TirathLessHair.jpg")} alt="Tirath Sharma" />
+                    <img src={require("../assets/pics/TirathWithPc.jpg")} alt="Tirath Sharma" />
                 </div>
             </div>
         </header>
