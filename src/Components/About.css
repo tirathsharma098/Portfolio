@@ -1,0 +1,60 @@
+
+#about {
+    display: flex;
+    height: 550px;
+}
+
+#about .aboutHeading {
+    flex: 4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fffdde;
+}
+
+#about .aboutHeading p {
+    flex: 0.7;
+    height: fit-content;
+    margin: 20px 0;
+    padding: 2.5rem 2rem;
+    border-radius: 50px;
+    transition: all 2s linear;
+    font-size: 80px;
+    font-family: "Balsamiq Sans", cursive;
+    background-color: #aed9e0;
+    color: #f4845f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#about .aboutContent {
+    flex: 6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d9d7f1;
+}
+
+#about .aboutContent .content {
+    padding: 20px 30px;
+    flex: 0.7;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#about .aboutContent .content p {
+    font-size: 28px;
+    font-family: "Kalam", cursive;
+    line-height: 34px;
+    letter-spacing: 0.03em;
+    justify-self: center;
+    text-align: justify;
+}
+
+@media (max-width: 1100px) {
+    #about .aboutContent .content p {
+        letter-spacing: 0.01em;
+    }
+}

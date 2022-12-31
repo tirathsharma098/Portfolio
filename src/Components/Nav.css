@@ -1,0 +1,35 @@
+
+.navbar {
+    background-color: #1d3557;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.navbar .container-fluid {
+    background-color: rgba(219, 231, 228, 0.1);
+}
+
+.collapse .navbar-nav {
+    margin-right: 0;
+    flex: 0.6;
+    justify-content: space-evenly;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #ffcb69;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    letter-spacing: 0.1em;
+    font-size: x-large;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #c0d8c0;
+    background-color: rgba(219, 231, 228, 0.1);
+}
+
+@media (max-width: 767px) {
+    .navbar-nav .nav-item .nav-link {
+        display: flex;
+        justify-content: center;
+    }
+}

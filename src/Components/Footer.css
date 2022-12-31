@@ -1,0 +1,88 @@
+
+.social-icon-link img {
+    width: 45px;
+    height: 45px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.555);
+}
+
+.social-icon-link-visited{
+    background-color: #ffb5a7;
+    border: 2px solid #ffb5a7;
+}
+
+.social-icon-link img:hover {
+    background-color: #d2e3ec;
+    box-shadow: 0px 2px 6px 0 white;
+}
+
+.social-icon-link img:active {
+    background-color: #fcca46;
+    box-shadow: 0px 2px 6px 0 #fcca46;
+    border: 2px solid #fcca46;
+}
+
+
+footer .upperOne {
+    height: 250px;
+    background-color: #073b4c;
+    display: flex;
+    justify-content: center;
+}
+
+footer .upperOne .contactMe {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer .upperOne .contactMe > div:first-child {
+    margin-bottom: 20px;
+    font-size: 38px;
+    font-family: "Roboto", sans-serif;
+    color: #89b0ae;
+}
+
+footer .upperOne .contactMe .platform {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+footer .upperOne .contactMe .email {
+    font-size: 20px;
+    color: #c38f71;
+    text-decoration: none;
+    margin: 20px 0 0 0;
+}
+
+footer .upperOne .contactMe .email a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #89b0ae;
+}
+
+footer .upperOne .contactMe .email a:hover {
+    color: #e24b5f;
+    text-shadow: 0 2px 4px rgb(219, 80, 108);
+}
+
+footer .bottomOne {
+    background-color: rgb(0, 17, 39);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+footer .bottomOne .bottomCopyright {
+    padding: 20px 0;
+}
+
+footer .bottomOne .bottomCopyright > div {
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 0.06em;
+    word-spacing: 0.1em;
+    color: rgb(209, 209, 209);
+}

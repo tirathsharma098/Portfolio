@@ -1,0 +1,89 @@
+
+#skills {
+    display: flex;
+    height: auto;
+    background-color: #fdf5cf;
+}
+
+#skills .skillsContainer {
+    flex: 6;
+    margin: 40px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#skills .skillsContainer .skillsContent {
+    /* background-color: #9fc7fff1; */
+    padding: 20px 35px;
+    margin: 30px 15px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+#skills .skillsContainer .skillsContent .skillItem {
+    display: flex;
+    flex-direction: column;
+}
+
+#skills .skillsContainer .skillsContent .skillItem .skillsTitle {
+    color: #e76f51;
+    font-family: "Secular One", sans-serif;
+    font-size: 28px;
+    word-spacing: 0.12em;
+}
+
+#skills .skillsContainer .skillsContent .skillItem .allItem {
+    display: flex;
+    margin: 20px 0;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#skills .skillsContainer .skillsContent .skillItem .allItem > div {
+    padding: 20px 30px;
+}
+
+#skills .skillsContainer .skillsContent .skillItem .allItem .icon {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#skills .skillsContainer .skillsContent .skillItem .allItem .icon img {
+    width: 60px;
+    height: 60px;
+}
+
+#skills .skillsContainer .skillsContent .skillItem .allItem .name {
+    font-family: "Slabo 27px", serif;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+
+#skills .skillsHeading {
+    flex: 4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fffdde;
+}
+
+#skills .skillsHeading h2 {
+    flex: 0.7;
+    height: fit-content;
+    margin: 20px 0;
+    padding: 2.5rem 2rem;
+    border-radius: 50px;
+    transition: all 2s linear;
+    font-size: 80px;
+    font-family: "Balsamiq Sans", cursive;
+    background-color: #52528c;
+    color: #f4845f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,108 @@
+
+#contactForm {
+    display: flex;
+    background-color: #dbe7e4;
+}
+
+#contactForm .formItem {
+    flex: 1;
+}
+
+#contactForm .formItem:first-of-type {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contactForm .formItem:first-of-type p {
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+    font-size: 22px;
+    width: 80%;
+    letter-spacing: 0.07em;
+    line-height: 1.3em;
+    color: #1a535c;
+    font-weight: 500;
+    margin: 50px 0px;
+    text-align: justify;
+}
+
+#contactForm .mainForm {
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border-left: 2px solid white; */
+}
+
+#contactForm .mainForm > div {
+    display: flex;
+    flex-direction: column;
+    background-color: #e3f2fd;
+    padding: 60px 90px;
+    border-radius: 20px;
+}
+
+#contactForm .mainForm .formHeading {
+    padding-bottom: 20px;
+}
+
+#contactForm .mainForm .formHeading h2 {
+    font-size: 38px;
+    text-decoration: underline;
+    text-decoration-color: #98c1d9;
+    text-decoration-thickness: 0.054em;
+    font-family: "Patrick Hand", cursive;
+    color: #013a63;
+}
+
+#contactForm .mainForm > div div {
+    padding: 10px 0;
+    align-self: left;
+    display: flex;
+    flex-direction: column;
+}
+
+#contactForm .mainForm > div div label {
+    padding-bottom: 4px;
+    font-family: "Nunito", sans-serif;
+    font-size: 20px;
+}
+
+#contactForm .mainForm > div div input {
+    border: 2px solid #a0cab0;
+    border-radius: 10px;
+    padding-left: 20px;
+    height: 40px;
+}
+
+#contactForm .mainForm > div div textarea {
+    border: 2px solid #a0cab0;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    padding-left: 20px;
+    resize: none;
+}
+
+#contactForm .mainForm > div button {
+    align-self: center;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: #1d3557cc;
+    font-family: "Secular One", sans-serif;
+    border: 2px solid rgba(53, 79, 90, 0.952);
+    border-radius: 30px;
+}
+
+#contactForm .mainForm > div button:hover {
+    box-shadow: 0px 2px 6px 0px #457b9d;
+    color: #1d3557fa;
+}
+
+@media (max-width: 1100px) {
+    #contactForm .mainForm > div {
+        margin-right: 20px;
+    }
+}
