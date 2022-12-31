@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tirathsharma098/Portfolio/tree/main/docs/static/css/main.6b18dd95.css",
-    "main.js": "/tirathsharma098/Portfolio/tree/main/docs/static/js/main.c97629d6.js",
-    "static/media/TirathLessHair.jpg": "/tirathsharma098/Portfolio/tree/main/docs/static/media/TirathLessHair.3c3fcc896fb46c159adb.jpg",
-    "index.html": "/tirathsharma098/Portfolio/tree/main/docs/index.html",
-    "main.6b18dd95.css.map": "/tirathsharma098/Portfolio/tree/main/docs/static/css/main.6b18dd95.css.map",
-    "main.c97629d6.js.map": "/tirathsharma098/Portfolio/tree/main/docs/static/js/main.c97629d6.js.map"
+    "main.css": "/Portfolio/docs/static/css/main.6b18dd95.css",
+    "main.js": "/Portfolio/docs/static/js/main.81fb0aea.js",
+    "static/media/TirathLessHair.jpg": "/Portfolio/docs/static/media/TirathLessHair.3c3fcc896fb46c159adb.jpg",
+    "index.html": "/Portfolio/docs/index.html",
+    "main.6b18dd95.css.map": "/Portfolio/docs/static/css/main.6b18dd95.css.map",
+    "main.81fb0aea.js.map": "/Portfolio/docs/static/js/main.81fb0aea.js.map"
   },
   "entrypoints": [
     "static/css/main.6b18dd95.css",
-    "static/js/main.c97629d6.js"
+    "static/js/main.81fb0aea.js"
   ]
 }
